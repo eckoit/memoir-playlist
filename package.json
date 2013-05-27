@@ -1,0 +1,18 @@
+{
+  "name": "memoir-playlist",
+  "version": "0.0.0",
+  "description": "Create a playlist based on a duration from a memoir timeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": "https://github.com/eckoit/memoir-playlist.git",
+  "author": "Ryan Ramage",
+  "license": "BSD",
+  "dependencies": {
+    "couchr": "0.0.13"
+  },
+  "devDependencies": {
+    "requiremock": "~1.3.3"
+  }
+}
